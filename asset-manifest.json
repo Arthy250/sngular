@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sngular/static/css/main.87e557d1.css",
+    "main.js": "/sngular/static/js/main.f2db1722.js",
+    "index.html": "/sngular/index.html",
+    "main.87e557d1.css.map": "/sngular/static/css/main.87e557d1.css.map",
+    "main.f2db1722.js.map": "/sngular/static/js/main.f2db1722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e557d1.css",
+    "static/js/main.f2db1722.js"
+  ]
+}
